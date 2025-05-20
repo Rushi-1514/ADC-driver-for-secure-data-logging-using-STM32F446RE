@@ -26,4 +26,52 @@ This project demonstrates the implementation of a low-power, high-performance em
 ---
 
 ## 📁 Project Structure
+STM32_ADC_Logging/
+├── Src/ # Source code files (main.c, adc.c, uart.c, ui.c)
+├── Inc/ # Header files
+├── KeilProject/ # Keil uVision project files
+├── Proteus/ # .DSN Proteus simulation file
+├── README.md # Project overview
+└── Documentation/ # IEEE-format paper and results
+
+
+## 🚀 Getting Started
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/STM32_ADC_Logging.git
+   
+2.Open KeilProject.uvprojx in Keil uVision.
+
+3.Build and flash the firmware to STM32F401RE (or run in Proteus simulation).
+
+4.Use the keypad to enter the correct password.
+
+5.Observe ADC values on the LCD and Virtual Terminal.
+
+📷 Demo
+✅ Access Granted
+
+❌ Access Denied
+
+📈 Real-time ADC value logging
+
+📚 Future Scope
+1.IoT integration via BLE or Wi-Fi
+2.Cloud-based data logging and monitoring
+3.AI-driven predictive analytics for sensor data
+
+👨‍💻 Contributors
+Rushikesh Karupothula
+
+Maanasa Pamarthy
+
+Varshita B
+
+Abid Ali Khan (Guide)
+
+
+
+
+
 
