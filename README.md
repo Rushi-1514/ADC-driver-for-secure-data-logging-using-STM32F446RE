@@ -50,6 +50,7 @@ STM32_ADC_Logging/
 5.Observe ADC values on the LCD and Virtual Terminal.
 
 📷 Demo
+
 ✅ Access Granted
 
 ❌ Access Denied
@@ -57,11 +58,15 @@ STM32_ADC_Logging/
 📈 Real-time ADC value logging
 
 📚 Future Scope
+
 1.IoT integration via BLE or Wi-Fi
+
 2.Cloud-based data logging and monitoring
+
 3.AI-driven predictive analytics for sensor data
 
 👨‍💻 Contributors
+
 Rushikesh Karupothula
 
 Maanasa Pamarthy
