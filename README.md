@@ -28,11 +28,14 @@ This project demonstrates the implementation of a low-power, high-performance em
 ## 📁 Project Structure
 STM32_ADC_Logging/
 ├── Src/ # Source code files (main.c, adc.c, uart.c, ui.c)
+
 ├── Inc/ # Header files
+
 ├── KeilProject/ # Keil uVision project files
+
 ├── Proteus/ # .DSN Proteus simulation file
+
 ├── README.md # Project overview
-└── Documentation/ # IEEE-format paper and results
 
 
 ## 🚀 Getting Started
